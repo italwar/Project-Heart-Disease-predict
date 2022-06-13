@@ -1,6 +1,6 @@
 # project-Heart-Disease-predict
 # Heart-disease-prediction
-![](images/heart.png)
+
 
 ## Description
 
